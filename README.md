@@ -4,31 +4,12 @@
 
 <p align="center"><img src="/static/PNGs/BRE_Logo_Color_Outline.png" width="600"/></p>
 <br>
-<p align="justify">BlueRetro is a multiplayer Bluetooth controllers adapter for various retro game consoles. Lost or broken controllers? Reproduction too expensive? Need those rare and obscure accessories? Just use the Bluetooth devices you already got! The project is open source hardware & software under the CERN-OHL-P-2.0 & Apache-2.0 licenses respectively. It's built for the popular ESP32 chip. Wii, Switch, PS3, PS4, PS5, Xbox One, Xbox Series X|S & generic HID Bluetooth (BR/EDR & LE) devices are supported. Parallel 1P (NeoGeo, Supergun, JAMMA, Handheld, etc), Parallel 2P (Atari 2600/7800, Master System, etc), NES, PCE / TG16, Mega Drive / Genesis, SNES, CD-i, 3DO, Jaguar, Saturn, PSX, PC-FX, JVS (Arcade), Virtual Boy, N64, Dreamcast, PS2, GameCube & Wii extension are supported with simultaneous 4+ players using a single adapter.</p>
+<p align="justify">BlueRetro - Xbox One, Xbox Series X|S devices are supported. </p>
 
 ## READ THIS FIRST
 * [Project documentation](https://github.com/darthcloud/BlueRetro/wiki)
 
-## Need help?
-* [Open a GitHub discussion](https://github.com/darthcloud/BlueRetro/discussions)
 
-## Commercial solution sponsoring BlueRetro FW development
-Buying these commercial adapters help the continued development of the BlueRetro firmware!!\
-Thanks to all sponsors!!
-
-[<img src="https://www.humblebazooka.com/images/HB_2021_white_rainbow_1200px.png" width="400"/>](https://www.humblebazooka.com)
-* JagBT by [Humble Bazooka](https://twitter.com/humblebazooka): Atari Jaguar single port dongle.\
-  https://www.humblebazooka.com/products/jag-bt-bluetooth-controller-adapter-for-the-atari-jaguar/
-* Neo Geo BT by [Humble Bazooka](https://twitter.com/humblebazooka): SNK Neo Geo single port dongle.\
-  https://www.humblebazooka.com/products/neo-bt-neo-geo-bluetooth-adapter/
-* PCE BT by [Humble Bazooka](https://twitter.com/humblebazooka): NEC PC-Engine dongle.\
-  https://www.humblebazooka.com/product/pce-bt-pc-engine-bluetooth-adapter/
-* Turbo BT by [Humble Bazooka](https://twitter.com/humblebazooka): NEC TurboGrafx-16 dongle.\
-  https://www.humblebazooka.com/product/turbo-bt-turbografx-16-bluetooth-adapter/
-* 3DO BT by [Humble Bazooka](https://twitter.com/humblebazooka): 3DO dongle.\
-  https://www.humblebazooka.com/products/3do-bt-3do-bluetooth-adapter
-* Saturn BT by [Humble Bazooka](https://twitter.com/humblebazooka): Saturn dongle.\
-  https://www.humblebazooka.com/products/saturn-bt-bluetooth-adapter-for-the-sega-saturn/
 
 <BR>
   
@@ -38,9 +19,6 @@ Thanks to all sponsors!!
 
 <BR>
 
-[<img src="https://static.wixstatic.com/media/ce8a57_fe2ccaa817704811aefee7a0bbd74098~mv2.png/v1/fill/w_445,h_60,al_c,q_85,enc_auto/RetroOnyx_logo_primary_grey_RGB60px.png" width="400"/>](https://www.retroonyx.com/)
-* Virtual Boy BlueRetro Adapter by [RetroOnyx](https://twitter.com/mellott124): Virtual Boy dongle.\
-  https://www.retroonyx.com/product-page/virtual-boy-blueretro-adapter
 
 <BR>
   
